@@ -1,0 +1,15 @@
+html {
+    box-sizing: border-box;
+}
+
+#container {
+    display: grid;
+    border: 3px solid red;
+    padding: 2px;
+    gap: 1px;
+    background-color: #2196F3;
+}
+
+.box {
+    border: 1px solid blue;
+}
